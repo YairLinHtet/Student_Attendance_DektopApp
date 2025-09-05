@@ -23,5 +23,5 @@ Tech Stack
 ## 🚀 How to Run
 1. Clone this repo:
    bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAM
+   git clone https://github.com/YairLinHtet/Student_Attendance_DektopApp.git
+   cd Student_Attendance_DesktopApp
