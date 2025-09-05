@@ -19,8 +19,8 @@ Tech Stack
 -PyInstaller for creating `.exe` file
 
 How to Run
-1.Download it on release
+-1.Download it on release
 
-2.Clone this repo
-git clone https://github.com/YairLinHtet/Student_Attendance_DesktopApp.git
-cd Student_Attendance_DesktopApp
+-2.Clone this repo
+-git clone https://github.com/YairLinHtet/Student_Attendance_DesktopApp.git
+-cd Student_Attendance_DesktopApp
